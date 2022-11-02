@@ -1,7 +1,7 @@
 # Drehmal-v2.1.1-Distant-horizons-Full-LOD
 Full LOD of Drehmal for Distant horizons [Minecraft]
 
-Download _Default-Sub-Dimension
+Download: _Default-Sub-Dimension
 
 For Singleplayer:
 Paste _Default-Sub-Dimension into: 
